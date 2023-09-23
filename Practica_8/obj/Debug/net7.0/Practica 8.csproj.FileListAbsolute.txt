@@ -1,0 +1,28 @@
+C:\Users\jesus\Documents\Cuatrimestre\4\Estructura de Datos Aplicados\Parcial 1\Practica 8\bin\Debug\net7.0\Practica 8.exe
+C:\Users\jesus\Documents\Cuatrimestre\4\Estructura de Datos Aplicados\Parcial 1\Practica 8\bin\Debug\net7.0\Practica 8.deps.json
+C:\Users\jesus\Documents\Cuatrimestre\4\Estructura de Datos Aplicados\Parcial 1\Practica 8\bin\Debug\net7.0\Practica 8.runtimeconfig.json
+C:\Users\jesus\Documents\Cuatrimestre\4\Estructura de Datos Aplicados\Parcial 1\Practica 8\bin\Debug\net7.0\Practica 8.dll
+C:\Users\jesus\Documents\Cuatrimestre\4\Estructura de Datos Aplicados\Parcial 1\Practica 8\bin\Debug\net7.0\Practica 8.pdb
+C:\Users\jesus\Documents\Cuatrimestre\4\Estructura de Datos Aplicados\Parcial 1\Practica 8\obj\Debug\net7.0\Practica 8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jesus\Documents\Cuatrimestre\4\Estructura de Datos Aplicados\Parcial 1\Practica 8\obj\Debug\net7.0\Practica 8.AssemblyInfoInputs.cache
+C:\Users\jesus\Documents\Cuatrimestre\4\Estructura de Datos Aplicados\Parcial 1\Practica 8\obj\Debug\net7.0\Practica 8.AssemblyInfo.cs
+C:\Users\jesus\Documents\Cuatrimestre\4\Estructura de Datos Aplicados\Parcial 1\Practica 8\obj\Debug\net7.0\Practica 8.csproj.CoreCompileInputs.cache
+C:\Users\jesus\Documents\Cuatrimestre\4\Estructura de Datos Aplicados\Parcial 1\Practica 8\obj\Debug\net7.0\Practica 8.dll
+C:\Users\jesus\Documents\Cuatrimestre\4\Estructura de Datos Aplicados\Parcial 1\Practica 8\obj\Debug\net7.0\refint\Practica 8.dll
+C:\Users\jesus\Documents\Cuatrimestre\4\Estructura de Datos Aplicados\Parcial 1\Practica 8\obj\Debug\net7.0\Practica 8.pdb
+C:\Users\jesus\Documents\Cuatrimestre\4\Estructura de Datos Aplicados\Parcial 1\Practica 8\obj\Debug\net7.0\Practica 8.genruntimeconfig.cache
+C:\Users\jesus\Documents\Cuatrimestre\4\Estructura de Datos Aplicados\Parcial 1\Practica 8\obj\Debug\net7.0\ref\Practica 8.dll
+C:\Users\jesus\Documents\Cuatrimestre\4\Estructura de Datos Aplicados\Parcial 1\Practica_8\bin\Debug\net7.0\Practica 8.exe
+C:\Users\jesus\Documents\Cuatrimestre\4\Estructura de Datos Aplicados\Parcial 1\Practica_8\bin\Debug\net7.0\Practica 8.deps.json
+C:\Users\jesus\Documents\Cuatrimestre\4\Estructura de Datos Aplicados\Parcial 1\Practica_8\bin\Debug\net7.0\Practica 8.runtimeconfig.json
+C:\Users\jesus\Documents\Cuatrimestre\4\Estructura de Datos Aplicados\Parcial 1\Practica_8\bin\Debug\net7.0\Practica 8.dll
+C:\Users\jesus\Documents\Cuatrimestre\4\Estructura de Datos Aplicados\Parcial 1\Practica_8\bin\Debug\net7.0\Practica 8.pdb
+C:\Users\jesus\Documents\Cuatrimestre\4\Estructura de Datos Aplicados\Parcial 1\Practica_8\obj\Debug\net7.0\Practica 8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jesus\Documents\Cuatrimestre\4\Estructura de Datos Aplicados\Parcial 1\Practica_8\obj\Debug\net7.0\Practica 8.AssemblyInfoInputs.cache
+C:\Users\jesus\Documents\Cuatrimestre\4\Estructura de Datos Aplicados\Parcial 1\Practica_8\obj\Debug\net7.0\Practica 8.AssemblyInfo.cs
+C:\Users\jesus\Documents\Cuatrimestre\4\Estructura de Datos Aplicados\Parcial 1\Practica_8\obj\Debug\net7.0\Practica 8.csproj.CoreCompileInputs.cache
+C:\Users\jesus\Documents\Cuatrimestre\4\Estructura de Datos Aplicados\Parcial 1\Practica_8\obj\Debug\net7.0\Practica 8.dll
+C:\Users\jesus\Documents\Cuatrimestre\4\Estructura de Datos Aplicados\Parcial 1\Practica_8\obj\Debug\net7.0\refint\Practica 8.dll
+C:\Users\jesus\Documents\Cuatrimestre\4\Estructura de Datos Aplicados\Parcial 1\Practica_8\obj\Debug\net7.0\Practica 8.pdb
+C:\Users\jesus\Documents\Cuatrimestre\4\Estructura de Datos Aplicados\Parcial 1\Practica_8\obj\Debug\net7.0\Practica 8.genruntimeconfig.cache
+C:\Users\jesus\Documents\Cuatrimestre\4\Estructura de Datos Aplicados\Parcial 1\Practica_8\obj\Debug\net7.0\ref\Practica 8.dll
